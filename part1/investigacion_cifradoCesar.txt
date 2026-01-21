@@ -1,0 +1,3 @@
+EL cifrado de cesar proviene de la antigua Roma del general romano Julio Cesar. 
+Julio Cesar marco la diferencia entre la replucia de roma y el imperio romano, justamente con estrategias
+como el famoso "Cifrado de Cesar". 
