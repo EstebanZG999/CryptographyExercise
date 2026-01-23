@@ -1,3 +1,37 @@
-EL cifrado de cesar proviene de la antigua Roma del general romano Julio Cesar. 
-Julio Cesar marco la diferencia entre la replucia de roma y el imperio romano, justamente con estrategias
-como el famoso "Cifrado de Cesar". 
+El cifrado de cesar es de los más antiguos de la historia, pre cursor de cifrados actuales. 
+Este cifrado proviene de la antigua Roma del general romano Julio Cesar. 
+Julio Cesar marco la diferencia entre la republica de roma y el imperio romano, justamente con estrategias
+como el famoso "Cifrado de Cesar".
+
+Las estrategias militares utilizadas se basan en enviar mensajes militares a
+sus generales, este le permitia mandar un mensaje de alto valor con protección.
+El funcionaimiento de este cifrado es muy simple, a cada letra del mensaje original
+se le reemplaza por una que se encuentra 3 posiciónes adelante en el alfabeto. 
+Por ejemplo, si queremos cifrar una letra A, esta se convierte en una letra D en el mensaje cifrado. 
+
+Este cifrado tuvo un gran impacto en su momento, ya que su idea era ocultar
+información importante, pero ahora es un cifrado que no ofrece 
+una seguridad real, ya que es muy simple para las tecnologías de hoy en día.
+
+
+POR QUE ELEGI ESTE CIFRADO: 
+
+Elegi el cifrado de cesar porque es un cifrado fundamental para historia y para comprender los principios basicos 
+de la criptografía. Aunque el concepto es simple introduce conceptos como
+los textos cifrados y planos, uso de la clave y algoritmo de cifrado. 
+
+Ventajas: 
+
+- Es facil de entender
+- Facil de implementar
+- Facil de entender los concpetos basicos de la criptografía. 
+- Da contexto historico de la criptografía. 
+
+
+Vulnerabilidades: 
+
+- Tiene solo 25 posibles claves
+- Propenso a fuerza bruta
+- Vulnerable a analisis de frecuencia
+- No ofrece seguridad a ataques modernos
+- No cumple con estandares minimos de la seguridad hoy en día. 
